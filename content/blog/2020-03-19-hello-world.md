@@ -7,15 +7,11 @@ description: This is my First CMS post
 
 *I am trying to use different way to write post.*
 
-
-
 > *This is quite simple*
 
 1. *What is this?*
 
    *What should I do with it?*
-
-
 
 ```
 class Jarrett
@@ -28,3 +24,7 @@ jarrett = Jarrett.new
 
 # => Hello
 ```
+
+
+
+![Testing](/img/attributes.jpeg "Real life")
